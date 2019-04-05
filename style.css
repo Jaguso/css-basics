@@ -38,3 +38,38 @@ body {
 .top-nav a:hover, a:active {
   color: lightgrey;
 }
+
+.btn {
+  padding: 8px;
+  border-radius: 3px;
+  border: none;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+.btn-section {
+  background-color: transparent;
+}
+
+.btn-section:hover {
+  background-color: #eee;
+}
+
+.btn-user {
+  background-color: lightgray;
+}
+
+.btn-user:hover {
+  background-color: darkgray;
+  color: white;
+}
+
+/* .left {
+  float: left;
+}
+
+.right {
+  float: right;
+} */
+
