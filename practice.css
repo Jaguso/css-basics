@@ -9,6 +9,10 @@ h1 {
   font-family: 'Dokdo', cursive;
 }
 
+.nav-bar {
+  background-color: rgba(111, 34, 255, 0.192);
+  height: 45px;
+}
 
 .main {
   width: 70%;
