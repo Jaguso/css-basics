@@ -29,6 +29,30 @@ h1 {
   color: grey;
 }
 
+.blocks {
+  height: 100px;
+}
+
+.block1 {
+  background-color: red;
+  height: 80px;
+  width: 80px;
+  position: relative;
+  left: 50px;
+  top: 10px;
+  z-index: 1;
+}
+
+.block2 {
+  background-color: green;
+  height: 80px;
+  width: 80px;
+  position: relative;
+  bottom: 30px;
+  left: 20px;
+  z-index: 2;
+}
+
 .main {
   width: 70%;
   margin: auto;
