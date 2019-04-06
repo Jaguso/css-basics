@@ -10,15 +10,23 @@ h1 {
 }
 
 .nav-bar {
-  background-color: rgba(34, 65, 234, 0.3);
+  background-color: rgba(0, 34, 255, 0.3);
   height: 45px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 .link {
   position: relative;
-  top: 10px;
+  top: 9px;
   left: 50px;
+  width: 100px;
+  height: 30px;
+  background-color: rgba(0, 0, 0, 0);
+  border-width: 1px;
+  border-style: solid;
+  border-color: grey;
+  border-radius: 20px;
+  color: grey;
 }
 
 .main {
