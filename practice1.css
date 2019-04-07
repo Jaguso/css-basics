@@ -1,0 +1,8 @@
+.rectangle {
+  height: 400px;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  border-radius: 20px;
+  background: linear-gradient(45deg, purple, blue, yellow, purple, blue, white);
+}
