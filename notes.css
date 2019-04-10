@@ -215,5 +215,10 @@ button:hover {
 .options {
   position: absolute;
   bottom: 100px;
+}
 
+@media (max-height: 800px) {
+  p {
+    font-size: 10px;
+  }
 }
