@@ -43,7 +43,16 @@
 
 .box-container-b {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  height: 300px;
+  width: 200px;
+}
+
+.box-container-c {
+  display: flex;
+  justify-content: flex-end;
   background-color: rgba(0, 0, 0, 0.2);
   margin: 20px;
   height: 300px;
