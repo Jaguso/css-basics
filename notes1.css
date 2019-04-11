@@ -68,5 +68,14 @@
   width: 200px;
 }
 
+.box-container-e {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  height: 300px;
+  width: 200px;
+}
+
 
 
