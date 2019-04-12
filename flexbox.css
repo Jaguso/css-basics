@@ -40,13 +40,13 @@ body {
 .box-1 {
   background-color: dodgerblue;
   width: 25%;
-  height: 50%;
+  height: 40%;
 }
 
 .box-2 {
   background-color: orangered;
   width: 25%;
-  height: 50%;
+  height: 40%;
 }
 
 .box-container-b {
@@ -103,6 +103,35 @@ body {
   height: 300px;
   width: 200px;
 }
+
+.box-container-h {
+  display: flex;
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  height: 300px;
+  width: 200px;
+}
+
+.box-container-i {
+  display: flex;
+  align-items: flex-end;
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  height: 300px;
+  width: 200px;
+}
+
+.box-container-j {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  height: 300px;
+  width: 200px;
+}
+
 
 
 
