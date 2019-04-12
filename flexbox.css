@@ -132,6 +132,23 @@ body {
   width: 200px;
 }
 
+.box-container-k {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  height: 300px;
+  width: 200px;
+}
+
+.box-container-l {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  height: 300px;
+  width: 200px;
+}
+
 
 
 
