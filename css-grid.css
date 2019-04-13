@@ -14,8 +14,24 @@
   grid-gap: 10px 20px;
 }
 
+.container-a {
+  font-size: 40px;
+  margin: 20px;
+  width: auto;
+  background: LightGray;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 50px 100px;
+  grid-gap: 10px 20px;
+}
+
 .d1{background:LightSkyBlue;}
 .d2{background:LightSalmon;}
 .d3{background:PaleTurquoise;}
 .d4{background:LightPink;}
 .d5{background:PaleGreen;}
+
+.d5-b{
+  background:PaleGreen;
+  grid-column: 2 / 4;
+}
