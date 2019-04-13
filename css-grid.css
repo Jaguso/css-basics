@@ -11,6 +11,8 @@
   display: grid;
   grid-template-columns: 100px 100px 100px;
   grid-template-rows: 50px 100px;
+  grid-column-gap: 10px;
+  grid-row-gap: 5px;
 }
 
 .d1{background:LightSkyBlue;}
