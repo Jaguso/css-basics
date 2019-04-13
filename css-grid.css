@@ -6,13 +6,12 @@
 .container-a {
   font-size: 40px;
   margin: 20px;
-  width: 300px;
+  width: auto;
   background: LightGray;
   display: grid;
   grid-template-columns: 100px 100px 100px;
   grid-template-rows: 50px 100px;
-  grid-column-gap: 10px;
-  grid-row-gap: 5px;
+  grid-gap: 10px 20px;
 }
 
 .d1{background:LightSkyBlue;}
