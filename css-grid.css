@@ -8,8 +8,8 @@
   margin: 20px;
   width: 300px;
   background: LightGray;
-  /* display: grid;
-  grid-template-columns: 100px 100px 100px; */
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
 }
 
 .d1{background:LightSkyBlue;}
