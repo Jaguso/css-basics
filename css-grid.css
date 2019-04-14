@@ -28,6 +28,19 @@
   justify-items: center;
 }
 
+.container-c {
+  font-size: 40px;
+  margin: 20px;
+  width: auto;
+  min-height: 300px;
+  background: LightGray;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 50px 100px;
+  grid-gap: 10px 20px;
+  align-items: end;
+}
+
 .d1{background:LightSkyBlue;}
 .d2{background:LightSalmon;}
 .d3{background:PaleTurquoise;}
