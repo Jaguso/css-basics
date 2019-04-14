@@ -62,3 +62,26 @@
   background:LightSkyBlue;
   justify-self: stretch;
 }
+
+.d2-a{
+  background:LightSalmon;
+  align-self: center;
+}
+
+.d2-b{
+  background:LightSalmon;
+  align-self: start;
+}
+
+.d2-c{
+  background:LightSalmon;
+  align-self: end;
+}
+
+.d2-d{
+  background:LightSalmon;
+  align-self: stretch;
+}
+
+
+
