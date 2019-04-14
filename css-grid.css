@@ -40,6 +40,25 @@
 .d5-c{
   background:PaleGreen;
   grid-column: 2 / 4;
-
   grid-row: 2 / 4;
+}
+
+.d1-a{
+  background:LightSkyBlue;
+  justify-self: center;
+}
+
+.d1-b{
+  background:LightSkyBlue;
+  justify-self: start;
+}
+
+.d1-c{
+  background:LightSkyBlue;
+  justify-self: end;
+}
+
+.d1-d{
+  background:LightSkyBlue;
+  justify-self: stretch;
 }
